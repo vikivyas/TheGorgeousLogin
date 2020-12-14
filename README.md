@@ -13,4 +13,4 @@ Uplabs design        |  Flutter rendering
 ### Code Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/huextrat/TheGorgeousLogin/graphs/contributors"><img src="https://opencollective.com/TheGorgeousLogin/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/vikivyas/TheGorgeousLogin/graphs/contributors"><img src="https://opencollective.com/TheGorgeousLogin/contributors.svg?width=890&button=false" /></a>
