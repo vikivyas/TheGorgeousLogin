@@ -69,8 +69,7 @@ class _LoginPageState extends State<LoginPage>
             mainAxisSize: MainAxisSize.max,
             children: <Widget>[
               Padding(
-                padding: EdgeInsets.only(
-                    top: MediaQuery.of(context).size.height * (60 / 730)),
+                //padding: EdgeInsets.only(top: MediaQuery.of(context).size.height * (60 / 730)),
                 child: new Image(
                     width: 250.0,
                     height: 191.0,
@@ -78,7 +77,7 @@ class _LoginPageState extends State<LoginPage>
                     image: new AssetImage('assets/img/login_logo.png')),
               ),
               Padding(
-                padding: EdgeInsets.only(top: 20.0),
+                //padding: EdgeInsets.only(top: 20.0),
                 child: _buildMenuBar(context),
               ),
               Expanded(
