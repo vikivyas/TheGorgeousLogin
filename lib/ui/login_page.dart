@@ -205,7 +205,7 @@ class _LoginPageState extends State<LoginPage>
 
   Widget _buildSignIn(BuildContext context) {
     return Container(
-      padding: EdgeInsets.only(top: 23.0),
+      //padding: EdgeInsets.only(top: 23.0),
       child: Column(
         children: <Widget>[
           Stack(
