@@ -45,6 +45,7 @@ class _LoginPageState extends State<LoginPage>
   Widget build(BuildContext context) {
     //print(MediaQuery.of(context).size.height);
     return new Scaffold(
+      resizeToAvoidBottomPadding: false,
       key: _scaffoldKey,
       body: NotificationListener<OverscrollIndicatorNotification>(
         onNotification: (overscroll) {
